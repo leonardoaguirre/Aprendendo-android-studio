@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Teste</string>
+    <string name="txtFazerLogin">Fazer Login</string>
+    <string name="txtNovaConta">Nova Conta</string>
+    <string name="txtBemVindo">Ola, seja bem vindo!</string>
+    <string name="txtNomeCompleto">Nome Completo</string>
+    <string name="txtDataNsc">Data de nascimento</string>
+    <string name="txtCpf">CPF</string>
+    <string name="txtSenha">Senha</string>
+    <string name="txtCadastrar">Cadastrar</string>
+    <string name="txtCancelar">Cancelar</string>
+    <string name="txtLogin">Login</string>
+</resources>
